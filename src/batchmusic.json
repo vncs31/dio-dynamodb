@@ -29,6 +29,33 @@
                   "SongYear": {"S": "1992"}
                 }
             }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Imagine Dragons"},
+  		  "SongTitle": {"S": "Warriors"},
+		  "SongYear": {"S": "2014"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Imagine Dragons"},
+                  "SongTitle": {"S": "Natural"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Riot Games"},
+  		  "SongTitle": {"S": "Star Walking"},
+		  "AlbumTitle": {"S": "Worlds Championship"},
+		  "SongYear": {"S": "2022"}
+                }
+            }
         }
       ]
 }
